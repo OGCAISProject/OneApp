@@ -25,7 +25,9 @@
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 3,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "application.html": {
@@ -43,6 +45,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header1-0",
           "_params": {
             "parallax": true,
@@ -65,12 +72,7 @@
           },
           "title": "One Application<br>with unlimited possibilities",
           "text": "Via integration with the World Wind environment, this client can provide relevant geospatial web service standards including WMS, WFS, and WCS (e.g., via getting information and capabilities, rendering visualizations, providing data results), focused on marine traffic and climate oriented datasets. The client includes three major modules: data management, visualization module, and analytical module.&nbsp;<br>The overall design of the client GUI is user friendly yet powerful. This interface component enables user manipulation of datasets, classification and analysis functions, and information and visualization outputs. Users, in addition, are provided with standard zoom, pan, adjusting, and data locating tools, all in two and three dimensions.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -107,7 +109,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/CKPlm60osD4",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
