@@ -117,6 +117,14 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "features6-4",
           "_params": {
             "paddingTop": 2,
@@ -124,7 +132,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -235,15 +243,7 @@
           "title6": "Multidimensional Data Visualization",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "This 4D Data Visualization Tool has incoporated time component and is able to play animations over time and space.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H4": {
-              "font-size": "18px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "msg-box5",
