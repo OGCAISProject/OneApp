@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/dulogo-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -107,7 +107,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "UNIQUENESS OF OUR VISUALIZATION APP",
+          "title": "UNIQUE FEATURES&nbsp;",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -162,7 +162,7 @@
           },
           "title1": "OGC STANDARDS<br><br>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "WMS (e.g., human footprint) as well as WFS (ship routes from ais) and WCS (sea velocity) \n",
+          "caption1": "WMS (e.g., human footprint) as well as WFS (ship routes from ais) and WCS (sea velocity) services",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -210,7 +210,7 @@
           },
           "title4": "Diverse Analysis Functions",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Provide analytical summaries and functions (kernel density, vertical profiling, etc)&nbsp;unique to marine traffic data analysis and visualization ",
+          "caption4": "Provide analytical summaries and functions unique to marine traffic data analysis and visualization ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -242,7 +242,7 @@
           },
           "title6": "Multidimensional Data Visualization",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "This 4D Data Visualization Tool has incoporated time component and is able to play animations over time and space.",
+          "caption6": "This 4D Data Visualization platform has incoporated time component and is able to play animations over time and space.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
