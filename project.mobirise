@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/dulogo-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 3,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -48,6 +48,9 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
             }
           },
           "_anchor": "header1-0",
@@ -71,8 +74,170 @@
             "showButtons": true
           },
           "title": "One Application<br>with unlimited possibilities",
-          "text": "Via integration with the World Wind environment, this client can provide relevant geospatial web service standards including WMS, WFS, and WCS (e.g., via getting information and capabilities, rendering visualizations, providing data results), focused on marine traffic and climate oriented datasets. The client includes three major modules: data management, visualization module, and analytical module.&nbsp;<br>The overall design of the client GUI is user friendly yet powerful. This interface component enables user manipulation of datasets, classification and analysis functions, and information and visualization outputs. Users, in addition, are provided with standard zoom, pan, adjusting, and data locating tools, all in two and three dimensions.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"application.html#msg-box4-1\" data-toolbar=\"-mbrBtnMove\">View Demonstration</a> "
+          "text": "Understanding the connections between humans, society, and their environments is crucial in order to better address today’s challenges in sustainable development and efficient governance. The OGC Testbed 13 task seeks to target these issues, particularly as related to coordination of multi-regional/multi-national operations and messaging in the displacement and mass movement of conflict-afflicted populations (e.g., war-afflicted migrants across the globe, resource allocation and provision). In this application, we aim to integrate multiple types of information provided in different standards while maintaining web security standards. This is done by offering interactive visualization and analysis of Automatic Identification System (AIS) data (ship tracks, routes) and ancillary datasets via OGC web services (i.e., WMS, WFS, WCS).<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"application.html#msg-box8-3\" data-toolbar=\"-mbrBtnMove\">View Demonstration</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#00a885",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "UNIQUENESS OF OUR VISUALIZATION APP",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-4",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "OGC STANDARDS<br><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "WMS (e.g., human footprint) as well as WFS (ship routes from ais) and WCS (sea velocity) \n",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "features",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "ENHANCED LAYER CONTROL",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Easy to add or remove layers from our interactive&nbsp;visual&nbsp;<br>interfaces",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pages",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Multisource Data Input",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Visulize and analyze AIS and marine traffic data alongside critical population information \n.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Diverse Analysis Functions",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Provide analytical summaries and functions (kernel density, vertical profiling, etc)&nbsp;unique to marine traffic data analysis and visualization ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title5": "Efficient Data Filtering",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Our app can facilitate users to query and thus load specific features by filtering layer attributes ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title6": "Multidimensional Data Visualization",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "This 4D Data Visualization Tool has incoporated time component and is able to play animations over time and space.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
